@@ -1,0 +1,17 @@
+If You want to add the code in github. then first you need to write the:
+
+git add filename:
+
+next, do git commit -m "final450.xlxs"
+
+to check the status use:
+
+git status
+
+to check all list use:
+
+ls
+
+to create new branch use:
+
+git branch filename
